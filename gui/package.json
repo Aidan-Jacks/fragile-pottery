@@ -1,0 +1,11 @@
+{
+  "name": "fragile-pottery",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "http-server ./gui -p 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
